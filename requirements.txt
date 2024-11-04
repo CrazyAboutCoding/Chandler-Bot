@@ -1,0 +1,5 @@
+nltk
+transformers
+twilio
+discord.py
+flask
